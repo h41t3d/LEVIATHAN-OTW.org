@@ -1,0 +1,11 @@
+ISSUE2 LEVIATHAN OVERTHEWIRE.org
+
+current :: leviathan1
+
+setuid binary is there... 
+use ltrace and see string compare and input the same strings to what it is being compare
+d..
+
+
+username --> leviathan2
+password --> ougahZi8Ta

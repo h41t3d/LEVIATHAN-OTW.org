@@ -1,0 +1,9 @@
+ISSUE4 LEVIATHAN OVERTHEWIRE.org 
+
+current :: leviathan3 
+
+simple chall...... just ltrace and input same string as it gets compared.
+
+
+username --> leviathan4
+password --> vuH0coox6m

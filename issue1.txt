@@ -1,0 +1,14 @@
+ISSUE1 LEVIATHAN OVERTHEWIRE.org
+	
+currently logged in as leviathan0
+
+search for all the files and .backup dir. isnt a server file hence, password must be in
+there,, 
+
+in backup cat the file bookmarks.html and grep for "password"..
+
+once done u can see the password. donzo
+
+
+username --> leviathan1
+password --> rioGegei8m

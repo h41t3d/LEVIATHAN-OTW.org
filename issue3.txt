@@ -1,0 +1,21 @@
+ISSUE3 LEVIATHAN OVERTHEWIRE.org 
+
+current :: leviathan2 
+
+first level on which it felt like real hacking.. lol
+
+here we have a setuid binary, this binary prints the file which satisfies the permissio-
+-ns..
+
+ltrace a file that can be accessed by the binary.... {/etc/leviathan_pass/leviathan2}
+it shows that "/bin/cat %s" access the file and this is ecploitable as... in "c" line 
+terminator is ";" so file name containing a ";" followed with bash can do the work.
+
+make a tmp dir and a file nano "<anything>;bash" and do 
+/home/leviathan2/printfile "<anything>;bash"
+
+which gives a bash for leviathan3.. why bcz the owner for setuid binary is leviathan3
+
+
+username --> leviathan3
+password --> Ahdiemoo1j

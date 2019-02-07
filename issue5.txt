@@ -1,0 +1,11 @@
+ISSUE5 LEVIATHAN OVERTHEWIRE.org 
+
+current :: leviathan4
+
+hidden dir
+binary encoded
+password ascii
+
+
+username --> leviathan5
+password --> Tith4cokei

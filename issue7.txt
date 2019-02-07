@@ -1,0 +1,10 @@
+ISSUE7 LEVIATHAN OVERTHEWIRE.org
+
+current :: leviathan6
+
+brute force in one line using bash..
+for i in {0000..9999}; do echo $i; ./leviathan6 $i; done
+
+
+username --> leviathan7
+password --> ahy7MaeBo9

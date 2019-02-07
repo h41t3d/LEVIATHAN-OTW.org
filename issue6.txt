@@ -1,0 +1,15 @@
+ISSUE6 LEVIATHAN OVERTHEWIRE.org
+
+current :: leviathan5
+
+this level gave me a headache... but first and foremost see is there is any file existi-
+-ng /tmp/file.log bcz it mustn't coz binary is gonna use it
+
+this binary reads data from /tmp/file.log as leviathan6 so just create a symbolic link
+of /etc/leviathan_pass/leviathan6 to /tmp/file.log
+
+then run the binary.
+
+
+username --> leviathan6
+password --> UgaoFee4li
